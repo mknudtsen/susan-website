@@ -1,0 +1,30 @@
+---
+title: Heterogeneous data are all heterogeneous in their own way....
+---
+![Brighton](images/NamedPicture2.png)
+
+***
+
+We use computational statistics, multitable and nonparametric methods such as the bootstrap and MCMC computation of complex posterior distributions to draw inferences about complex biological phenomena such as:
+
+*   complex dynamics and interactions in the immune system.
+*   ant colonies.
+*   drug resistant mutations in HIV.
+*   differential geometrical approaches to statistics.
+*   brain development through image analysis and genetics.
+*   the dynamics of the human microbiome.
+*   understanding resilience after perturbations.
+
+
+***
+
+<div id="footer" class="footer"> <img src="images/NSF_Logo.jpg" width="100" height="100">
+  <img src="images/nih_logo.gif" width="100" height="100">
+  <br>
+  <p>
+  Our work is funded by the NIH and the NSF, grants (NIH-R01GM08884) (NSF-NIGMS-DMA) and (NIH-R01AI112401).
+  </p>
+</div>
+
+
+

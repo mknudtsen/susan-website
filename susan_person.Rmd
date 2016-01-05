@@ -1,0 +1,47 @@
+---
+title: "Susan Holmes"
+---
+
+<table class='container'>
+<tr>
+<td>
+<img src="images/SusanKnitted.JPG"  width="200" height="200" alt="Susan Holmes">
+</td>
+<td>
+
+*   Professor of Statistics and member of BioX, Stanford University.
+*   John Henry Samter University Fellow in Undergraduate Education.
+*   co-Director of the [Mathematical and Computational Sciences IDP](http://web.stanford.edu/group/mathcompsci/).
+*   Member of the Scientific Advisory board of the [Fields Institute](http://www.fields.utoronto.ca).
+*   Moderator for the [stat.AP arxiv](http://arxiv.org/find/stat).
+*   Editor for the IMS-Cambridge Series Monographs and Textbooks in Statistics and Probability.
+*   I was a Researcher at [INRA, Montpellier](http://www6.montpellier.inra.fr/mistea_eng/Presentation).
+*   <img src="images/myemail.png"  width="200" height="60" alt="myemail"> 
+*   Office: Sequoia 102 and Clark S251.
+</td>
+</tr>
+</table>
+
+#### 
+
+[`My official university profile`](https://med.stanford.edu/profiles/susan-holmes)
+
+#Research
+
+Brought up in the French School of `Data Analysis` (Analyse des Données) in the 1980's, I specialize in exploring and visualizing complex biological data.
+
+I am interested in integrating the information provided by phylogenetic trees, community interaction graphs and metabolic networks with sequencing data and clinical covariates. 
+
+I use computational statistics, in particular, nonparametric computer intensive methods such as the bootstrap and MCMC to draw inferences about many complex biological phenomena, interactions between the immune system and cancer, resilience in the human microbiome after antibiotic use and drug resistance in HIV. 
+
+I enjoy teaching using R and BioConductor and try to make everything I do freely available. 
+
+#Upcoming and Recent Talks:
+
+*   Big Data Science Talk : [Ghent, Belgium, May 10, 2015](http://www.bigdatascience.ugent.be/)
+*   Big Data in Medicine: [Stanford, May 22nd, 2015](http://bigdata.stanford.edu)
+*   Statistical Learning in Biological Systems from Perturbations, [Ascona, 2015](https://www1.ethz.ch/bsse/cbg/news/ascona2015) 
+*   UseR! 2015 : [Aalborg, Denmark, July 2015](http://user2015.math.aau.dk)
+*   Stamps, MBL Woodshole: [August 2015](https://stamps.mbl.edu/index.php/Main_Page)
+*   JSM, Seattle, August 2015.
+*   BioinfoSummer, Sydney, 2015.
