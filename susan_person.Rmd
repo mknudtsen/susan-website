@@ -5,7 +5,7 @@ title: "Susan Holmes"
 <table class='container'>
 <tr>
 <td>
-<img src="images/SusanKnitted.JPG"  width="200" height="200" alt="Susan Holmes">
+<img src="images/SusanKnitted.jpg"  width="200" height="200" alt="Susan Holmes">
 </td>
 <td>
 
